@@ -13,5 +13,6 @@ set TOUCH_TEXT_CONSOLE=0
 set WIDTH=1920
 set HEIGHT=3240
 set DEBUG=1
+set LOCATION="allmonitors"
 
 start %APPPATH%\%APP% "%root%\moodlab.toe"
