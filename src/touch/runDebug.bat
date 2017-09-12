@@ -14,5 +14,6 @@ set WIDTH=1920
 set HEIGHT=3240
 set DEBUG=1
 set LOCATION="allmonitors"
+set MOCK=0
 
 start %APPPATH%\%APP% "%root%\moodlab.toe"
