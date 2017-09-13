@@ -13,7 +13,7 @@ set TOUCH_TEXT_CONSOLE=0
 set WIDTH=1920
 set HEIGHT=1080
 set DEBUG=0
-set LOCATION="singlemonitor"
+set LOCATION=1
 set MONITOR=1
 set MOCK=0
 
