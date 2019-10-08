@@ -11,10 +11,10 @@ set TOUCH_TEXT_CONSOLE=0
 
 # APP SPECIFIC
 set WIDTH=1920
-set HEIGHT=3240
+set HEIGHT=1080
 set DEBUG=0
-set LOCATION=2
-set MONITOR=1
+set LOCATION=0
+set MONITOR=0
 set MOCK=0
 
 start %APPPATH%\%APP% "%root%\moodlab.toe"
